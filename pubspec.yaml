@@ -43,6 +43,8 @@ dependencies:
   animated_text_kit: ^4.2.2
   firebase_auth: ^4.2.6
   image_network: ^2.5.1
+  keycloak_flutter: ^0.0.19
+  flutter_svg: ^2.0.1
 
 dev_dependencies:
   flutter_test:
